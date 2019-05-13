@@ -1,6 +1,6 @@
 # Project Name
 
-[Demo](https://mysterious25.github.io/sports-app-landing/src/index.html)
+[Demo](https://mysterious25.github.io/uber/src/index.html)
 
 ### Description
 
