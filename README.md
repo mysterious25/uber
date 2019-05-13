@@ -4,13 +4,11 @@
 
 ### Description
 
-*Layout of sports landing*
+*Layout of Uber landing*
 
 ### Technologies are used
 
 - *HTML*
 - *CSS*
 - *Flex*
-- *wow.js library*
-- *tiny-slider.js library*
 
